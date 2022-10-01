@@ -23,15 +23,14 @@
 
             $n5 = $n3.$n4;
             
-            
 
-            echo "$n<br>";
-            echo "$s<br>";
-            echo "$n1<br>";
-            echo "$n2<br>";
-            echo "$n3<br>";
-            echo "$n4<br>";
-            echo "$n5<br>";
+            echo "$n"<br>";
+            echo "$s"<br>";
+            echo "$n1"<br>";
+            echo "$n2"<br>";
+            echo "$n3"<br>";
+            echo "$n4"<br>";
+            echo "$n5"<br>";
           
             ?>
 	</body>
